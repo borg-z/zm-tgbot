@@ -3,3 +3,6 @@ Bot for zonemider. Uses zoneminder api to get events list. Sends event to tg as 
 - zm_url =  zoneminder url, example http://zm.loc/zm/
 - TOKEN = telegram bot token
 - chat = your tg chat id
+
+Requirements:
+- pip install --no-cache-dir -r requirements.txt
